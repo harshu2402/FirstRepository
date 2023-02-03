@@ -1,0 +1,9 @@
+.Git --> Version Control.
+GitHub --> Platform.
+
+Version-tools need to install
+
+Download Git Application(https://github.com/).
+create your account on git-hub.
+Download Tortoise git(helps to write command automatically)--> optional.
+
