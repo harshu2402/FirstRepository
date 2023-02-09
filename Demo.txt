@@ -1,2 +1,6 @@
 I Love Cutiee.
+<<<<<<< HEAD
 I Love her more then myself.
+=======
+I Love Her More
+>>>>>>> 389e39a4e48bd436900c6b811b38473473b267f7
